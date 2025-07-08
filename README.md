@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I'm working on my skills in software development!
+- 🔭 I'm working on my skills in software development!
 - 😄 I'm currently studying Engineering at University of Cambridge.
 <!--
 **tg506/tg506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
